@@ -172,6 +172,10 @@ margin-top: 6%;
 .cart-button:hover {
   background-color: #0761c1;
 }
+button:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(133, 177, 251, 0.5);
+}
 
 
 
